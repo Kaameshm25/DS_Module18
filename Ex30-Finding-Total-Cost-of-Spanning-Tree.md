@@ -15,7 +15,6 @@ To write a C Program to implement Prim's Algorithm for finding Total Cost of spa
 
 5. Display Total Cost: Output the `min_cost` of the spanning tree, which is the total minimum cost.
 
-
 ## Program:
 ```
 /*
